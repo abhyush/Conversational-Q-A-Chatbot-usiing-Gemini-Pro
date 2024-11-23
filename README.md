@@ -1,5 +1,7 @@
 # Gemini LLM Application with Streamlit
 
+![Gemini LLM App](Gemini_.png)
+
 This project demonstrates the use of Google's **Gemini Pro** language model for an interactive Q&A application. Built with **Streamlit**, the app allows users to ask questions, receive responses, and maintain a chat history. The **Gemini Pro** model processes user queries and provides intelligent, conversational responses.
 
 ---
@@ -10,7 +12,6 @@ This project demonstrates the use of Google's **Gemini Pro** language model for 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Methodology](#methodology)
-- [Image Preview](#image-preview)
 - [References](#references)
 
 ---
@@ -52,11 +53,6 @@ The application enables users to interact with Google's **Gemini Pro** large lan
 
 4. **Dynamic Response Handling**:
    - Gemini Pro generates responses in a streaming fashion for a seamless user experience.
-
----
-
-## 🖼 Image Preview
-![Gemini LLM App](Gemini.png)
 
 ---
 
