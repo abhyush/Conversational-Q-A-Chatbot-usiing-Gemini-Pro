@@ -64,5 +64,5 @@ The application enables users to interact with Google's **Gemini Pro** large lan
 ---
 
 ## 📌 Author
-ABHYUSH
-Feel free to contribute or open an issue for improvements!
+**ABHYUSH
+   - Feel free to contribute or open an issue for improvements!
